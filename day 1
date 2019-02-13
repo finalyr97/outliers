@@ -1,0 +1,13 @@
+Batch 20
+Group 1
+
+Requirements
+Python,Jupyter,Anaconda
+
+Design of The project
+Using preprocessing techniques we are removing outliers and for the obtained data we are applying classification methods to 
+check for maximium growth.
+The project should be able to determine groth rate of Soybean production and best month for high yield.
+Farmer login --> Input new data which will be added to already existing data and viewgraph --> outlier detection using 
+regression methods --> o/p will be agraph showing abnormal behavior --> apply classification to predict max growth in a
+particular month.
